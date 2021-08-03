@@ -1,0 +1,12 @@
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/bin/Debug/netcoreapp3.1/RealPF.deps.json
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/bin/Debug/netcoreapp3.1/RealPF.runtimeconfig.json
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/bin/Debug/netcoreapp3.1/RealPF.runtimeconfig.dev.json
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/bin/Debug/netcoreapp3.1/RealPF.dll
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/bin/Debug/netcoreapp3.1/RealPF.pdb
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/obj/Debug/netcoreapp3.1/RealPF.csproj.AssemblyReference.cache
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/obj/Debug/netcoreapp3.1/RealPF.AssemblyInfoInputs.cache
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/obj/Debug/netcoreapp3.1/RealPF.AssemblyInfo.cs
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/obj/Debug/netcoreapp3.1/RealPF.csproj.CoreCompileInputs.cache
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/obj/Debug/netcoreapp3.1/RealPF.dll
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/obj/Debug/netcoreapp3.1/RealPF.pdb
+/Users/hannahkyme/Desktop/SimulatedPF/RealPF/RealPF/obj/Debug/netcoreapp3.1/RealPF.genruntimeconfig.cache
